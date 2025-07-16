@@ -42,7 +42,7 @@ ToDo-Project/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/todo-project.git
+   git clone https://github.com/Gauravchandra018/todo-project.git
    cd todo-project
 Install Dependencies
 
